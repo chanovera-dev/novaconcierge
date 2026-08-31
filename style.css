@@ -1,0 +1,24 @@
+/*
+Theme Name: Nova Concierge
+Theme URI: https://novaconcierge.com/
+Template: stories
+Author: Antigravity Team
+Author URI: https://novaconcierge.com/
+Description: Child theme of Stories designed for real estate properties with EasyBroker integration, interactive AJAX filters, and native property management.
+Version: 1.0.0
+Tested up to: 6.7
+Requires at least: 6.0
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: novaconcierge
+Tags: real-estate, properties, easybroker, child-theme, custom-background, featured-images
+*/
+
+/* Nova Concierge specific overrides */
+:root {
+    --nc-primary: #1d224f;
+    --nc-accent: #feda7c;
+    --nc-card-bg: rgba(255, 255, 255, 0.85);
+    --nc-border-radius: 12px;
+}
